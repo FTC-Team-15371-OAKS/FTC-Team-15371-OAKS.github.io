@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 700" fill="none" role="img" aria-label="Line drawing of an FTC robot">
+  <g stroke="#a9d0ef" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".72">
+    <path d="M70 640h660" stroke-dasharray="4 10" opacity=".4"/>
+    <path d="M190 620h420" stroke-dasharray="3 8" opacity=".3"/>
+
+    <rect x="205" y="414" width="390" height="96" rx="8"/>
+    <rect x="224" y="433" width="352" height="58" rx="4" opacity=".55"/>
+    <path d="m224 433 352 58M576 433 224 491" opacity=".5"/>
+    <path d="M205 462h390" opacity=".35"/>
+
+    <circle cx="281" cy="546" r="55"/>
+    <circle cx="281" cy="546" r="31"/>
+    <circle cx="281" cy="546" r="9"/>
+    <path d="M281 515v62M250 546h62M260 525l42 42M302 525l-42 42" opacity=".6"/>
+
+    <circle cx="519" cy="546" r="55"/>
+    <circle cx="519" cy="546" r="31"/>
+    <circle cx="519" cy="546" r="9"/>
+    <path d="M519 515v62M488 546h62M498 525l42 42M540 525l-42 42" opacity=".6"/>
+
+    <path d="M595 438h54v54h-54z"/>
+    <path d="M614 465h18M622 456v18" opacity=".7"/>
+    <path d="M649 456h30M649 474h30" opacity=".5"/>
+
+    <path d="M382 414V290M418 414V290M382 290h36"/>
+    <path d="M400 290V192M368 192h64v-38h-64z"/>
+    <path d="M368 172h-42v52h42M432 172h42v52h-42" opacity=".8"/>
+    <path d="M326 198h-18M450 198h18" opacity=".6"/>
+    <path d="M400 154v-30" stroke-dasharray="3 6" opacity=".5"/>
+
+    <path d="M400 330h76v52h-76z" opacity=".7"/>
+    <path d="M476 343h36v26h-36z" opacity=".5"/>
+    <path d="M512 348h18v16h-18z" opacity=".45"/>
+
+    <path d="M205 520h-38v-64h38" opacity=".7"/>
+    <path d="M167 472h18M167 488h18" opacity=".4"/>
+
+    <path d="M205 600v28M595 600v28M205 614h390" opacity=".3"/>
+    <path d="M205 614l10-5M205 614l10 5M595 614l-10-5M595 614l-10 5" opacity=".3"/>
+  </g>
+  <g fill="#a9d0ef" opacity=".65" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">
+    <text x="250" y="670">DRIVETRAIN</text>
+    <text x="365" y="108">LIFT</text>
+    <text x="532" y="430">INTAKE</text>
+  </g>
+</svg>

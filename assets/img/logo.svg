@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="OAKS Robotics">
+  <circle cx="32" cy="32" r="31" fill="#0d2b4a"/>
+  <path d="M32 11.5c3.1 5.2 7.3 7.5 12.4 8.3-.7 5.2 1.2 9.4 5.2 12.3-4 3-5.9 7.2-5.2 12.3-5.1-.8-9.3 1.5-12.4 6.7-3.1-5.2-7.3-7.5-12.4-6.7.7-5.1-1.2-9.3-5.2-12.3 4-2.9 5.9-7.1 5.2-12.3 5.1-.8 9.3-3.1 12.4-8.3Z" fill="#ffffff"/>
+  <path d="M32 18.5v29" stroke="#0d2b4a" stroke-width="2" stroke-linecap="round"/>
+  <path d="m32 26-6.5-3.2M32 33.5l7-4M32 41l-6.5-3.2" stroke="#0d2b4a" stroke-width="2" stroke-linecap="round"/>
+</svg>

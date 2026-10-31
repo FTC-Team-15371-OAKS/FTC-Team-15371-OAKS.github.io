@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Outreach photo placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f8fc"/>
+      <stop offset="1" stop-color="#dbe7f2"/>
+    </linearGradient>
+    <pattern id="leaves" width="120" height="120" patternUnits="userSpaceOnUse" patternTransform="rotate(18)">
+      <path d="M60 18c12 18 26 26 44 30-4 18 2 32 16 44-14 12-20 26-16 44-18-4-32 2-44 16-12-14-26-20-44-16 4-18-2-32-16-44 14-12 20-26 16-44 18-4 32-12 44-30Z" fill="none" stroke="#1f5f9e" stroke-opacity=".12" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#leaves)"/>
+  <text x="980" y="820" font-family="Georgia, serif" font-size="520" fill="#0d2b4a" opacity=".05">04</text>
+  <g fill="none" stroke="#1f5f9e" stroke-width="3" opacity=".65">
+    <path d="M300 560c0-120 80-220 220-250 140 30 220 130 220 250"/>
+    <path d="M360 560v-60M480 560v-90M600 560v-90M720 560v-60" opacity=".5"/>
+    <circle cx="520" cy="300" r="34"/>
+    <path d="M470 380c0-28 22-50 50-50s50 22 50 50" opacity=".6"/>
+    <path d="M180 660h840" stroke-dasharray="5 12" opacity=".35"/>
+    <path d="M250 220l40 40M290 220l-40 40" opacity=".35"/>
+    <path d="M910 220l40 40M950 220l-40 40" opacity=".35"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#0d2b4a">
+    <text x="72" y="86" font-size="22" letter-spacing="6" opacity=".8">OAKS ROBOTICS / 15371</text>
+    <text x="72" y="742" font-family="Georgia, serif" font-size="76" letter-spacing="1">OUTREACH</text>
+    <text x="74" y="790" font-size="20" letter-spacing="4" opacity=".65">SHARING STEM WITH OUR COMMUNITY</text>
+    <text x="1000" y="86" font-size="20" letter-spacing="4" opacity=".65">PHOTO 04</text>
+  </g>
+</svg>

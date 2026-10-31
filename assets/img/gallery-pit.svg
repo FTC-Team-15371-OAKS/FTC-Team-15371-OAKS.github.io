@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Team pit photo placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#123f6b"/>
+      <stop offset="1" stop-color="#081c30"/>
+    </linearGradient>
+    <pattern id="stripes" width="60" height="60" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <path d="M0 0v60" stroke="#f4f8fc" stroke-opacity=".05" stroke-width="10"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#stripes)"/>
+  <text x="930" y="820" font-family="Georgia, serif" font-size="520" fill="#f4f8fc" opacity=".05">07</text>
+  <g fill="none" stroke="#a9d0ef" stroke-width="3" opacity=".7">
+    <path d="M300 610V360h480v250"/>
+    <path d="M300 420h480M300 520h480M460 360v250M620 360v250"/>
+    <path d="M360 650h360" stroke-dasharray="5 12" opacity=".4"/>
+    <path d="M340 330l40-60 40 60M740 330l40-60 40 60" opacity=".5"/>
+    <circle cx="420" cy="470" r="26"/>
+    <circle cx="660" cy="470" r="26"/>
+    <path d="M446 470h188" stroke-dasharray="4 8" opacity=".5"/>
+    <path d="M240 250h100M860 250h100" opacity=".3"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#f4f8fc">
+    <text x="72" y="86" font-size="22" letter-spacing="6" opacity=".8">OAKS ROBOTICS / 15371</text>
+    <text x="72" y="742" font-family="Georgia, serif" font-size="76" letter-spacing="1">THE PIT</text>
+    <text x="74" y="790" font-size="20" letter-spacing="4" opacity=".6">TOOLS · TAPE · LAST-MINUTE FIXES</text>
+    <text x="1000" y="86" font-size="20" letter-spacing="4" opacity=".6">PHOTO 07</text>
+  </g>
+</svg>

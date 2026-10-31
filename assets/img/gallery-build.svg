@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Build season photo placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d2b4a"/>
+      <stop offset="1" stop-color="#1f5f9e"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0v60" fill="none" stroke="#f4f8fc" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#grid)"/>
+  <text x="980" y="820" font-family="Georgia, serif" font-size="520" fill="#f4f8fc" opacity=".05">01</text>
+  <g stroke="#a9d0ef" fill="none" stroke-width="3" opacity=".7">
+    <rect x="290" y="420" width="470" height="150" rx="12"/>
+    <path d="m290 420 470 150M760 420 290 570" opacity=".45"/>
+    <circle cx="400" cy="620" r="72"/>
+    <circle cx="650" cy="620" r="72"/>
+    <circle cx="400" cy="620" r="28"/>
+    <circle cx="650" cy="620" r="28"/>
+    <path d="M525 420V270M555 420V270M525 270h30M540 270v-80"/>
+    <path d="M500 190h80v-46h-80z"/>
+    <path d="M500 167h-46v60h46M580 167h46v60h-46"/>
+    <path d="M200 690h800" stroke-dasharray="5 12" opacity=".4"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#f4f8fc">
+    <text x="72" y="86" font-size="22" letter-spacing="6" opacity=".8">OAKS ROBOTICS / 15371</text>
+    <text x="72" y="742" font-family="Georgia, serif" font-size="76" letter-spacing="1">BUILD SEASON</text>
+    <text x="74" y="790" font-size="20" letter-spacing="4" opacity=".6">NORFOLK COLLEGIATE · NORFOLK, VA</text>
+    <text x="1000" y="86" font-size="20" letter-spacing="4" opacity=".6">PHOTO 01</text>
+  </g>
+</svg>

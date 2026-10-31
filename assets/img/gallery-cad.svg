@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="CAD lab photo placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d2b47"/>
+      <stop offset="1" stop-color="#081c2e"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0v40" fill="none" stroke="#8ec8f0" stroke-opacity=".13"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#grid)"/>
+  <text x="960" y="820" font-family="Georgia, serif" font-size="520" fill="#e3f0fa" opacity=".04">06</text>
+  <g fill="none" stroke="#8ec8f0" stroke-width="3" opacity=".7">
+    <path d="M340 570l180-110 220 120-180 120z"/>
+    <path d="M340 570v-90l180-110v90M520 460v130M740 580v-100l-220-120"/>
+    <path d="M400 535v-45l80-50v45M600 545v-40l80 45v40" opacity=".55"/>
+    <circle cx="520" cy="460" r="10"/>
+    <path d="M520 460l60-100" stroke-dasharray="4 8"/>
+    <path d="M250 690h700" stroke-dasharray="4 10" opacity=".35"/>
+    <path d="M270 230h140M270 230v140" opacity=".35"/>
+    <path d="M930 230H790M930 230v140" opacity=".35"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#e3f0fa" opacity=".65" font-size="16">
+    <text x="290" y="760">0.000</text>
+    <text x="810" y="760">15371-ASSY</text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#f4f8fc">
+    <text x="72" y="86" font-size="22" letter-spacing="6" opacity=".8">OAKS ROBOTICS / 15371</text>
+    <text x="72" y="742" font-family="Georgia, serif" font-size="76" letter-spacing="1">CAD LAB</text>
+    <text x="74" y="790" font-size="20" letter-spacing="4" opacity=".6">ONSHAPE · STEP · 3D PRINTING</text>
+    <text x="1000" y="86" font-size="20" letter-spacing="4" opacity=".6">PHOTO 06</text>
+  </g>
+</svg>

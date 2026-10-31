@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ftc-team-15371-oaks.github.io/sitemap.xml
